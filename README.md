@@ -3,7 +3,7 @@
 <h3 align="center">I'm a DSC Lead, Full Stack Developer & a UG Student from Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirox" alt="felirox" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/eCqFYAVjjDksg/giphy.gif" />
 
 - 🔭 I’m currently working on [DevHub](https://github.com/felirox/DevHub)
 
@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://niran.dev](https://niran.dev)
 
 - 📝 I regulary write articles on [https://www.linkedin.com/in/felirox/](https://www.linkedin.com/in/felirox/)
-
+<br>
 - 💬 Ask me about **Embedded Systems, IoT, ML, Web/App Development**
 
 - 📫 How to reach me **hi@niran.dev**
