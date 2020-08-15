@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niran</h1>
 
-<h3 align="center">I'm a DSC Lead, Full Stack Developer & a UG Student from Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h3>
+<h3 align="center">I'm a DSC Lead, Full Stack & IoT Developer and a UG Student from REVA University, Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirox" alt="felirox" /> </p>
 <img align="right" alt="GIF" src="https://animeright.news/wp-content/uploads/sites/2/2019/01/ARN-Coding-2.gif" />
