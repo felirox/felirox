@@ -1,7 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
 <h1 align="center">Hi 👋, I'm Niran</h1>
-<h3 align="center">I'm a DSC Lead and a Full Stack Developer/UG Student from Bangalore, India.</h3>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h2>
+<h3 align="center">I'm a DSC Lead, Full Stack Developer & a UG Student from Bangalore, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirox" alt="felirox" /> </p>
 
