@@ -3,7 +3,7 @@
 <h3 align="center">I'm a DSC Lead, Full Stack & IoT Developer and a UG Student from REVA University, Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirox" alt="felirox" /> </p>
-<img align="right" alt="GIF" src="https://i.gifer.com/9TLY.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/felirox/felirox/master/9TLY.gif" />
 
 - 🔭 I’m currently working on [DevHub](https://github.com/felirox/DevHub)
 
