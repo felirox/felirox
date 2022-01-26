@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Neural networks**
 
-- 👨‍💻 All of my projects are available at [https://niran.dev](https://niran.dev)
+- 👨‍💻 All of my projects are available at [https://niran.dev/projects](https://niran.dev/projects)
 
 - 📝 I regulary write articles on [https://www.linkedin.com/in/felirox/](https://www.linkedin.com/in/felirox/)
 
