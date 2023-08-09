@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirox" alt="felirox" /> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/felirox/felirox/master/9TLY.gif" />
 
-- 🔭 I’m currently working on [DevHub](https://github.com/felirox/DevHub)
+- 🔭 I’m currently working on an undisclosed project in Robotics and Computer Vision
 
 - 🌱 I’m currently learning **something in AI**
 
