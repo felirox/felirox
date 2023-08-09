@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niran</h1>
 
-<h3 align="center">I'm a Computer Vision Research Engineer at Samsung Research. <br/> Ex-Informatica & Ex-Google DSC Lead. Best Outgoing UG Student from REVA University, Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h3>
+<h3 align="center">I'm a Computer Vision Research Engineer at Samsung Research. <br/> <br/> Ex-Informatica & Ex-Google DSC Lead. Best Outgoing UG Student from REVA University, Bangalore, India.<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see ya!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirox" alt="felirox" /> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/felirox/felirox/master/9TLY.gif" />
